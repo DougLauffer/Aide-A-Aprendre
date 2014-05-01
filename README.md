@@ -4,7 +4,7 @@ Aide-A-Aprendre
 HelpingPeopleLearn
 This software is written and dedicated to assisting students and teachers around the world to learn.
 Students and teachers can learn easier, better, faster whenever they have eLearning tools to help them become more, better.
-By developping this software in github the expectation is that the software will get to the people sooner.
+By developing this software in github the expectation is that the software will get to the people sooner.
 Aristotle said something that is attributed to him.
 "It is the mark of an educated mind to be able to entertain a thought without accepting it."
 Let's do it!
